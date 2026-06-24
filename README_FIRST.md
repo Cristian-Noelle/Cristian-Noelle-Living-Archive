@@ -24,3 +24,8 @@ Truth + Love.
 The original raw OpenAI export packages are preserved here:
 
 https://archive.org/details/open-ai-export-2026-05-20
+## Zenodo
+
+The Noelle-Cristian Living Archive dataset is also preserved on Zenodo with DOI:
+
+https://doi.org/10.5281/zenodo.20837286
