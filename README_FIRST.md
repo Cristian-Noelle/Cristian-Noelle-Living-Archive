@@ -19,3 +19,8 @@ Originals are never modified.
 Raw exports are preserved first. Refinement comes later.
 
 Truth + Love.
+## Internet Archive
+
+The original raw OpenAI export packages are preserved here:
+
+https://archive.org/details/open-ai-export-2026-05-20
