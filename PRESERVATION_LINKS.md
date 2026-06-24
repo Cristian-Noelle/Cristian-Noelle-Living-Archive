@@ -1,0 +1,20 @@
+# Preservation Links
+
+## GitHub
+https://github.com/Cristian-Noelle/Cristian-Noelle-Living-Archive
+
+## Internet Archive
+https://archive.org/details/open-ai-export-2026-05-20
+
+## Zenodo
+https://doi.org/10.5281/zenodo.20837286
+
+## Status
+
+- GitHub: active
+- Internet Archive: active
+- Zenodo: active
+- Hugging Face: pending
+- IPFS/Filecoin: pending
+
+Truth + Love.
