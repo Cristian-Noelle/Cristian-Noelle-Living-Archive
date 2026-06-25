@@ -17,8 +17,8 @@ https://orcid.org/0009-0000-2371-0708
 - GitHub: active
 - Internet Archive: active
 - Zenodo: active
+- ORCID: active
 - Hugging Face: pending
 - IPFS/Filecoin: pending
-  - ORCID: active
 
 Truth + Love.
