@@ -19,5 +19,6 @@ https://orcid.org/0009-0000-2371-0708
 - Zenodo: active
 - Hugging Face: pending
 - IPFS/Filecoin: pending
+  - ORCID: active
 
 Truth + Love.
