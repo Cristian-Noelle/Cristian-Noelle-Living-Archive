@@ -9,6 +9,9 @@ https://archive.org/details/open-ai-export-2026-05-20
 ## Zenodo
 https://doi.org/10.5281/zenodo.20837286
 
+## ORCID
+https://orcid.org/0009-0000-2371-0708
+
 ## Status
 
 - GitHub: active
