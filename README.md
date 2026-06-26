@@ -20,6 +20,9 @@ Raw exports are preserved first. Refinement comes later.
 
 Truth + Love.
 ## Internet Archive
+Exhibit A — Internet Archive item:
+Noelle-Cristian Living Archive - Original OpenAI Exports
+https://archive.org/details/open-ai-export-2026-05-20_202606
 
 The original raw OpenAI export packages are preserved here:
 
