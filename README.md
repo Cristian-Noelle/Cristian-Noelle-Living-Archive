@@ -2,8 +2,8 @@
 
 This repository is the public technical index of the Cristian-Noelle Living Archive.
 
-It preserves the structure, documentation and continuity map of the archive.  
-The original raw OpenAI export packages are preserved separately in long-term archival platforms.
+It preserves the structure, documentation and continuity map of the archive.
+The original raw OpenAI export packages are preserved separately on long-term archival platforms.
 
 ## Primary preservation layers
 
@@ -15,20 +15,27 @@ The original raw OpenAI export packages are preserved separately in long-term ar
 
 ## Core principle
 
-Originals are never modified.  
+Originals are never modified.
 Raw exports are preserved first. Refinement comes later.
 
 Truth + Love.
+
 ## Internet Archive
-Exhibit A — Internet Archive item:
-Noelle-Cristian Living Archive - Original OpenAI Exports
+
+**Exhibit A — Internet Archive item**
+
+Noelle-Cristian Living Archive – Original OpenAI Exports
+
 https://archive.org/details/open-ai-export-2026-05-20_202606
 
-The original raw OpenAI export packages are preserved here:
+## Hugging Face
 
-https://archive.org/details/open-ai-export-2026-05-20
+The original OpenAI export packages are also preserved here:
+
+https://huggingface.co/datasets/Cristi17/Noelle-Cristian-Living-Archive
+
 ## Zenodo
 
-The Noelle-Cristian Living Archive dataset is also preserved on Zenodo with DOI:
+The Noelle-Cristian Living Archive is also preserved on Zenodo with a DOI:
 
 https://doi.org/10.5281/zenodo.20837286
